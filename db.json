@@ -1,8 +1,8 @@
 {
   "location": {
-  "city": "Edmonton",
-  "ip": "75.155.122.37",
-  "latitude": 53.5951,
-  "longitude": -113.4096,
+    "city": "Edmonton",
+    "ip": "75.155.122.37",
+    "latitude": 53.5951,
+    "longitude": -113.4096
   }
 }
