@@ -1,29 +1,8 @@
 {
   "location": {
-  "callingCode": "1",
   "city": "Edmonton",
-  "countryCapital": "Ottawa",
-  "country_code": "CA",
-  "country_name": "Canada",
-  "currency": "CAD",
-  "currencySymbol": "$",
-  "emojiFlag": "🇨🇦",
-  "flagUrl": "https://ip-api.io/images/flags/ca.svg",
   "ip": "75.155.122.37",
-  "is_in_european_union": false,
   "latitude": 53.5951,
   "longitude": -113.4096,
-  "metro_code": 0,
-  "organisation": "TELUS Communications",
-  "region_code": "AB",
-  "region_name": "Alberta",
-  "suspiciousFactors": {
-    "isProxy": false,
-    "isSpam": false,
-    "isSuspicious": false,
-    "isTorNode": false
-  },
-  "time_zone": "America/Edmonton",
-  "zip_code": "T5A"
   }
 }
