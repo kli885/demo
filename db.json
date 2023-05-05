@@ -1,4 +1,5 @@
 {
+  "location": {
   "callingCode": "1",
   "city": "Edmonton",
   "countryCapital": "Ottawa",
@@ -24,4 +25,5 @@
   },
   "time_zone": "America/Edmonton",
   "zip_code": "T5A"
+  }
 }
