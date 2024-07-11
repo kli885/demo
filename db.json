@@ -1,13 +1,15 @@
 {
-  "author": {
-    "name": "Epic Games"
-  },
-  "title": "Floppy Knights",
-  "url": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a",
-  "description": "Free on Epic Games\n$22.99 -> Free!\nSale ends 7/18/2024 at 9:00 AM",
-  "image": {
-    "url": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-1wlfx.png"
-  },
-  "color": "#00b0f4",
-  "timestamp": 1720728237327
+  "disc": {
+    "author": {
+      "name": "Epic Games"
+    },
+    "title": "Floppy Knights",
+    "url": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a",
+    "description": "Free on Epic Games\n$22.99 -> Free!\nSale ends 7/18/2024 at 9:00 AM",
+    "image": {
+      "url": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-1wlfx.png"
+    },
+    "color": "#00b0f4",
+    "timestamp": 1720728237327
+  }
 }
