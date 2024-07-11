@@ -1,104 +1,13 @@
 {
-  "recipients": [
-    {
-      "id": 2,
-      "Results": [
-        {
-          "EmailAddress": "cashgardner@gmail.com"
-        },
-        {
-          "EmailAddress": "newmankinney@gmail.com"
-        },
-        {
-          "EmailAddress": "rosanneanderson@gmail.com"
-        },
-        {
-          "EmailAddress": "jimmiesampson@gmail.com"
-        },
-        {
-          "EmailAddress": "oramunoz@gmail.com"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "Results": [
-        {
-          "EmailAddress": "jennamercado@gmail.com"
-        },
-        {
-          "EmailAddress": "loismercer@gmail.com"
-        },
-        {
-          "EmailAddress": "ermacoleman@gmail.com"
-        },
-        {
-          "EmailAddress": "charityjensen@gmail.com"
-        },
-        {
-          "EmailAddress": "huffrichard@gmail.com"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "Results": [
-        {
-          "EmailAddress": "santiagofreeman@gmail.com"
-        },
-        {
-          "EmailAddress": "serranogross@gmail.com"
-        },
-        {
-          "EmailAddress": "foleyfitzpatrick@gmail.com"
-        },
-        {
-          "EmailAddress": "chavezbartlett@gmail.com"
-        },
-        {
-          "EmailAddress": "lawrenceward@gmail.com"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "Results": [
-        {
-          "EmailAddress": "mckenziegoodwin@gmail.com"
-        },
-        {
-          "EmailAddress": "sandrawilson@gmail.com"
-        },
-        {
-          "EmailAddress": "mooneystokes@gmail.com"
-        },
-        {
-          "EmailAddress": "feliciagutierrez@gmail.com"
-        },
-        {
-          "EmailAddress": "selenarich@gmail.com"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "Results": [
-        {
-          "EmailAddress": "laceywoodward@gmail.com"
-        },
-        {
-          "EmailAddress": "davishardin@gmail.com"
-        },
-        {
-          "EmailAddress": "dotsonpruitt@gmail.com"
-        },
-        {
-          "EmailAddress": "lindsaycoffey@gmail.com"
-        },
-        {
-          "EmailAddress": "burtonfranco@gmail.com"
-        }
-      ]
-    }
-  ]
+  "author": {
+    "name": "Epic Games"
+  },
+  "title": "Floppy Knights",
+  "url": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a",
+  "description": "Free on Epic Games\n$22.99 -> Free!\nSale ends 7/18/2024 at 9:00 AM",
+  "image": {
+    "url": "https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-1wlfx.png"
+  },
+  "color": "#00b0f4",
+  "timestamp": 1720728237327
 }
